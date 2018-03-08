@@ -1,2 +1,2 @@
 # po-commerce
-commercial awareness training 
+commercial awareness kit
